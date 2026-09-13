@@ -241,10 +241,12 @@ O foco não é reproduzir todos os recursos de uma linguagem Lisp completa, mas 
 
 Não há dependências externas.
 
-## Licença
+## 👨‍💻 Autor
 
-Caso deseje disponibilizar o projeto como código aberto, uma licença como a MIT pode ser adicionada ao repositório.
+Desenvolvido por **Walisson Santiago** walissonrp@proton.me
+
 
 ---
+## 📄 Licença
 
-Desenvolvido como projeto de estudo sobre construção de compiladores e geração de código intermediário.
+Este projeto foi desenvolvido para fins educacionais.
